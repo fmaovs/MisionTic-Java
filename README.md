@@ -1,7 +1,7 @@
 # Mision Tic
 
 #### MisionTic is a governamental program design to train programmers fullstack
-[Mision Tic] (https://www.misiontic2022.gov.co/portal/)
+[Mision Tic](https://www.misiontic2022.gov.co/portal/)
 
 # Challenge 1
 Challenge is a practice exercise where students test our knowledge in the language we are learning.
